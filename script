@@ -1,0 +1,5 @@
+game:GetService("StarterGui"):SetCore("SendNotification", {
+			Title = 'Serenity',
+			Text = "Serenity will hopefully be back up tomorrow.",
+			Duration = 6
+		})
